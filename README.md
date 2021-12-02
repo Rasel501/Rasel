@@ -1,2 +1,0 @@
-# Rasel
-A Learner
